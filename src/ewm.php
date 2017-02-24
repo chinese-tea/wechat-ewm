@@ -3,7 +3,7 @@
 namespace xc666\wechat;
 
 class ewm{
-	public function getEwm{
+	public function getEwm(){
 		echo 888;
 	}
 }
